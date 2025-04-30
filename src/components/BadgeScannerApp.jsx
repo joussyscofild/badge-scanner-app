@@ -29,7 +29,7 @@ export default function BadgeScannerApp() {
     'Appel de rappel',
     'Documentation technique',
     'Démonstration produit',
-    'Test',
+    'Tessst',
     'Réunion commerciale',
     'Projet en cours'
   ];
