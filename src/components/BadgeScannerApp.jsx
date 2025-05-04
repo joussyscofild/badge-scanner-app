@@ -29,9 +29,9 @@ export default function BadgeScannerApp() {
     'Appel de rappel',
     'Documentation technique',
     'Démonstration produit',
-    'Tessst',
-    'Réunion commerciale',
-    'Projet en cours'
+    'Visit Client Au : ',
+    'Visite client Au bureau',
+    'Cherche convention '
   ];
 
   const addNoteSuggestion = (suggestion) => {
